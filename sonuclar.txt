@@ -1,0 +1,119 @@
+﻿Element                  Z          Sembol         Element            Grup
+Alkali Metal             1               H        Hidrojen              1A
+Element                  2              He          Helyum              8A
+Alkali Metal             3              Li          Lityum              1A
+Element                  4              Be        Berilyum              2A
+Element                  5               B             Bor              3A
+Element                  6               C          Karbon              4A
+Element                  7               N            Azot              5A
+Element                  8               O         Oksijen              6A
+Element                  9               F            Flor              7A
+Element                 10              Ne            Neon              8A
+Alkali Metal            11              Na          Sodyum              1A
+Element                 12              Mg       Magnezyum              2A
+Element                 13              Al       Aluminyum              3A
+Element                 14              Si        Silisyum              4A
+Element                 15               P          Fosfor              5A
+Element                 16               S          Kükürt              6A
+Element                 17              Cl            Klor              7A
+Element                 18              Ar           Argon              8A
+Alkali Metal            19               K        Potasyum              1A
+Element                 20              Ca        Kalsiyum              2A
+Gecis Metali            21              Sc       Skandiyum              3B
+Gecis Metali            22              Ti        Titanyum              4B
+Gecis Metali            23               V        Vanadyum              5B
+Gecis Metali            24              Cr            Krom              6B
+Gecis Metali            25              Mn          Mangan              7B
+Gecis Metali            26              Fe           Demir              8B
+Gecis Metali            27              Co          Kobalt              8B
+Gecis Metali            28              Ni           Nikel              8B
+Gecis Metali            29              Cu           Bakır              1B
+Gecis Metali            30              Zn           Çinko              2B
+Element                 31              Ga          Galyum              3A
+Element                 32              Ge       Germanyum              4A
+Element                 33              As         Arsenik              5A
+Element                 34              Se        Selenyum              6A
+Element                 35              Br            Brom              7A
+Element                 36              Kr         Kripton              8A
+Alkali Metal            37              Rb        Rubidyum              1A
+Element                 38              Sr      Strontiyum              2A
+Gecis Metali            39               Y         İtriyum              3B
+Gecis Metali            40              Zr          Zirkon              4B
+Gecis Metali            41              Nb         Niobyum              5B
+Gecis Metali            42              Mo        Molibden              6B
+Gecis Metali            43              Tc      Tekhnetyum              7B
+Gecis Metali            44              Ru        Rutenyum              8B
+Gecis Metali            45              Rh          Rodyum              8B
+Gecis Metali            46              Pd        Paladyum              8B
+Gecis Metali            47              Ag           Gümüş              1B
+Gecis Metali            48              Cd        Kadmiyum              2B
+Element                 49              In         İndiyum              3A
+Element                 50              Sn           Kalay              4A
+Element                 51              Sb         Antimon              5A
+Element                 52              Te          Tellür              6A
+Element                 53               I            Iyot              7A
+Element                 54              Xe          Ksenon              8A
+Alkali Metal            55              Cs          Sezyum              1A
+Element                 56              Ba          Baryum              2A
+Gecis Metali            57              La          Lantan              3B
+Gecis Metali            58              Ce          Seryum              3B
+Gecis Metali            59              Pr       Praseodim              3B
+Gecis Metali            60              Nd          Neodim              3B
+Gecis Metali            61              Pm       Prometyum              3B
+Gecis Metali            62              Sm        Samaryum              3B
+Gecis Metali            63              Eu        Evropyum              3B
+Gecis Metali            64              Gd      Gadolinyum              3B
+Gecis Metali            65              Tb        Terbiyum              3B
+Gecis Metali            66              Dy     Disprosiyum              3B
+Gecis Metali            67              Ho        Holmiyum              3B
+Gecis Metali            68              Er         Erbiyum              3B
+Gecis Metali            69              Tm          Tulyum              3B
+Gecis Metali            70              Yb      İtterbiyum              3B
+Gecis Metali            71              Lu        Lutetyum              3B
+Gecis Metali            72              Hf        Hafniyum              4B
+Gecis Metali            73              Ta          Tantal              5B
+Gecis Metali            74               W        Tungsten              6B
+Gecis Metali            75              Re          Renyum              7B
+Gecis Metali            76              Os         Osmiyum              8B
+Gecis Metali            77              Ir         İridyum              8B
+Gecis Metali            78              Pt          Platin              8B
+Gecis Metali            79              Au           Altın              1B
+Gecis Metali            80              Hg            Cıva              2B
+Element                 81              Tl          Talyum              3A
+Element                 82              Pb          Kurşun              4A
+Element                 83              Bi          Bizmut              5A
+Element                 84              Po        Polonyum              6A
+Element                 85              At         Astatin              7A
+Element                 86              Rn           Radon              8A
+Alkali Metal            87              Fr       Fransiyum              1A
+Element                 88              Ra          Radyum              2A
+Gecis Metali            89              Ac        Aktinyum              3B
+Gecis Metali            90              Th          Toryum              3B
+Gecis Metali            91              Pa    Protaktinyum              3B
+Gecis Metali            92               U         Uranyum              3B
+Gecis Metali            93              Np       Neptünyum              3B
+Gecis Metali            94              Pu       Plutonyum              3B
+Gecis Metali            95              Am       Amerikyum              3B
+Gecis Metali            96              Cm         Kuriyum              3B
+Gecis Metali            97              Bk       Berkelyum              3B
+Gecis Metali            98              Cf    Kaliforniyum              3B
+Gecis Metali            99              Es     Einsteinium              3B
+Gecis Metali           100              Fm        Fermiyum              3B
+Gecis Metali           101              Md     Mendelevyum              3B
+Gecis Metali           102              No        Nobelyum              3B
+Gecis Metali           103              Lr     Lavrensiyum              3B
+Gecis Metali           104              Rf  Rutherfordiyum              4B
+Gecis Metali           105              Db        Dubniyum              5B
+Gecis Metali           106              Sg     Seaborgiyum              6B
+Gecis Metali           107              Bh        Bohriyum              7B
+Gecis Metali           108              Hs        Hassiyum              8B
+Gecis Metali           109              Mt     Meitneriyum              8B
+Gecis Metali           110              Ds   Darmstadtiyum              8B
+Gecis Metali           111              Rg     Roentgenium              1B
+Gecis Metali           112              Cn     Copernicium              2B
+Element                113              Nh        Nihonium              3A
+Element                114              Fl       Flerovium              4A
+Element                115              Mc       Moscovium              5A
+Element                116              Lv     Livermorium              6A
+Element                117              Ts      Tennessine              7A
+Element                118              Og       Oganesson              8A
